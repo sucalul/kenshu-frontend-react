@@ -3,7 +3,7 @@ import './App.css';
 
 function App(props) {
   const subject = props.subject;
-  console.log(props);
+
   return (
     <div className="App">
       <header className="App-header">
